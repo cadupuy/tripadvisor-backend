@@ -6,3 +6,6 @@
 
 #NODE_JS
 node_modules
+
+#ENV
+.env
