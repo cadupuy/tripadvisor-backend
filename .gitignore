@@ -1,0 +1,8 @@
+#OSX
+.DS_Store
+
+#VS_CODE
+.VS_CODE
+
+#NODE_JS
+node_modules
